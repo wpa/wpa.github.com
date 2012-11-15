@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Emacs strikes back...
 ---
 
 A long long (1998/99) time ago I was starting my adventure with *Unix* systems.
