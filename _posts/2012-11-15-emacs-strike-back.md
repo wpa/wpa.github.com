@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Emacs strikes back...
+tags: emacs, clojure
 ---
 
 A long long (1998/99) time ago I was starting my adventure with *Unix* systems.
